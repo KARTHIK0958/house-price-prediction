@@ -23,3 +23,31 @@ The dataset used for this project is the [House Prices: Advanced Regression Tech
 - `requirements.txt`: List of Python dependencies for easy installation.
 
  cd house-price-prediction
+
+Install the required dependencies:
+pip install -r requirements.txt
+
+Explore the Jupyter notebooks in the notebooks/ directory to understand the data, data preprocessing steps, and model building process.
+
+Use the provided scripts in the scripts/ directory to train the model and make predictions.
+
+Experiment with different features, hyperparameters, and data preprocessing techniques to improve model performance.
+
+Model Evaluation
+The performance of the model is evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R2) score. You can find the evaluation results in the Jupyter notebooks.
+
+Future Improvements
+Feature engineering to create more relevant features.
+Hyperparameter tuning to improve model performance.
+Exploring more advanced regression techniques.
+
+Contributing
+Contributions are welcome! Feel free to open issues and pull requests for any improvements or bug fixes.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgments
+The dataset used in this project is sourced from Kaggle.
+Inspiration and knowledge from online tutorials and courses on machine learning.
+Happy coding and house price prediction!
